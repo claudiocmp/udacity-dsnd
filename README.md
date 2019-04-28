@@ -1,2 +1,2 @@
 # udacity-dsnd
-Udacity data science nano degree
+Personal notebook - Udacity data science nano degree
