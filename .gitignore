@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# deep learning project
+/course/2_deep_learning/project/*.gz
+/course/2_deep_learning/project/*.part
