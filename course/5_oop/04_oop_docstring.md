@@ -54,4 +54,5 @@ class Pants:
         return self.price * (1 - percentage)
 ```
 
-[Extra reference](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+[Extra reference 1](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_google.html)
+[Extra reference 2](https://sphinxcontrib-napoleon.readthedocs.io/en/latest/example_numpy.html#example-numpy)
